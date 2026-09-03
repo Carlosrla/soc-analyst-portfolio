@@ -3,7 +3,7 @@
 Repositorio de mi formación autodidacta como SOC Analyst — un programa equivalente a máster, de 8-10 meses, siguiendo una metodología basada en incidentes reales.
 
 ## Sobre mí
-[Tu nombre] — en formación activa hacia un puesto de SOC Analyst Tier 1/2.
+Carlos — en formación activa hacia un puesto de SOC Analyst Tier 1/2.
 
 ## Qué vas a encontrar aquí
 
