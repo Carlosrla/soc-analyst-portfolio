@@ -1,6 +1,6 @@
 # Arquitectura del laboratorio — Estado inicial (Módulo 0)
 
-**Fecha:** [fecha de hoy]
+**Fecha:** 03/09/2026
 
 ## Topología
 
