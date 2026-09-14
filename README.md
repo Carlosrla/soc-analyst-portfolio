@@ -19,7 +19,7 @@ Carlos — en formación activa hacia un puesto de SOC Analyst Tier 1/2.
 ## Progreso del programa
 
 - [x] Módulo 0 — Puesta en marcha (laboratorio + portfolio)
-- [ ] Módulo 1 — Fundamentos de seguridad y del SOC
+- [x] Módulo 1 — Fundamentos de seguridad y del SOC
 - [ ] Módulo 2 — Networking para Blue Team
 
 ## Laboratorio actual
