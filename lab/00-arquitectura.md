@@ -1,6 +1,6 @@
 # Arquitectura del laboratorio — Estado inicial (Módulo 0)
 
-**Fecha:** [fecha de hoy]
+**Fecha:** 03/09/2026
 
 ## Topología
 
@@ -24,7 +24,7 @@ Cada VM tiene un segundo adaptador NAT, exclusivamente de salida, para actualiza
 
 ## Hipervisor
 
-VirtualBox 7.x, con red interna `vboxnet0` (10.10.10.0/24, sin DHCP — IPs asignadas manualmente en cada VM).
+VirtualBox 7.0, con red interna `vboxnet0` (10.10.10.0/24, sin DHCP — IPs asignadas manualmente en cada VM).
 
 ## Verificación de conectividad
 
